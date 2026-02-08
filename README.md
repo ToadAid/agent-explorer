@@ -1,3 +1,8 @@
+> ⚠️ Fork Notice  
+> This repository is a fork of Agentic-Trust-Layer/agent-explorer.  
+> It adapts the Explorer for Tobyworld Mirror (ERC-8004, Base).  
+> Upstream remains canonical.
+
 # Agentic Trust - Agent Explorer
 
 ![ERC-8004 Identity Overview](docs/images/ERC8004overview.png)
